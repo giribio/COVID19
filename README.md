@@ -8,6 +8,6 @@ We commit to conduct research analysis and all the findings and data will be ope
 
 If you prefer you could always cite https://github.com/giribio/COVID-19
 
-Feel free to create any issues in Github or feel free to contact me via giribio@mail.com for any queries.
+Feel free to create any issues in Github or feel free to contact me via giribio#mail.com (replace # with @) for any queries.
 
 Thanks and let us fight against COVID-19 in all possible ways.
