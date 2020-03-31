@@ -1,4 +1,5 @@
 Comparitive analysis of approved drugs on S-protein of COVID-19 using computational stratergies
+
 Girinath G. Pillai*, P. Ambili Unni.
 
 COVID-19 target: 6LU7 (https://www.rcsb.org/structure/6LU7) 
