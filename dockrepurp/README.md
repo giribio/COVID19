@@ -1,4 +1,4 @@
-Comparitive analysis of approved drugs on S-protein of COVID-19 using computational stratergies
+Comparative analysis of approved drugs on S-protein of COVID-19 using computational strategies
 
 Girinath G. Pillai*, P. Ambili Unni.
 
