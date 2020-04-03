@@ -1,0 +1,16 @@
+In 6LU7 , target protease has cys-his catalytic dyad. 
+
+Substrate binding site located between 
+domain 1 (residues 8 to 101) and domain 2 (102 tp 184). 
+
+Inhibitor forms antiparallel sheet with residues 164 to 168. 
+
+Also with residues 189 to 191.
+
+Key residues in binding pocket 
+h41, y54, m49, d187, g143, c145, g143, q189, f185, h163, h164, a191, 
+t190, q192, p168, l167, e166, h172, m165, n142, l141, f140. 
+
+h41 and c145 are catalytic dyads required for protease activation.
+
+>>>config file settings for AUTODOCK VINA<<<<
