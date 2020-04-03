@@ -1,9 +1,9 @@
-
+http://ekhidna2.biocenter.helsinki.fi/barcosel/tmp//6y84A/6y84A.html
  No:  Chain   Z    rmsd lali nres  %id PDB  Description
    1:  6y84-A 50.7  0.0  304   304  100 PDB  MOLECULE: NON-STRUCTURAL POLYPROTEIN 1AB;                            
    2:  6yb7-A 49.6  0.1  304   306  100 PDB  MOLECULE: SARS-COV-2 MAIN PROTEASE;                                  
    3:  5rfc-A 49.4  0.1  304   304  100 PDB  MOLECULE: MAIN PROTEASE;       
-   
+5r series of PDB are all same expect the co-crystal ligands   
   76:  5rfp-A 48.2  0.3  304   304  100 PDB  MOLECULE: MAIN PROTEASE;                                             
   77:  5ren-A 48.0  0.4  304   304  100 PDB  MOLECULE: MAIN PROTEASE;                                             
   78:  6m03-A 47.6  0.4  304   306  100 PDB  MOLECULE: SARS-COV-2 MAIN PROTEASE;                                  
