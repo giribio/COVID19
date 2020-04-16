@@ -1,3 +1,57 @@
+
+
+>>ORF1a
+  
+  Papain-like protease
+    
+     PLpro inhibitors (GRL0617)
+
+  3CL-protease - 6Y2E (PDB ID)
+  
+    3CLpro inhibitors (lopinavir)
+    
+  NSP 1-16
+    
+     CYP inhibitors (alisporivir)
+
+>>ORF1b
+  
+  RNA dependent RNA polymerase 6M71 (PDB ID)
+  
+    RdRp inhibitors (ribavirin, BCX4430)
+    Inhibit RNA replication mechanism (remdesivir, GS-5734)
+
+  Helicase
+  
+    Helicase inhibitors (SSYA10-001)
+
+  Endribonuclease - 6VWW (PDB ID)
+
+>>Structural Proteins
+  
+  Spike Protein - 6VSB (PDB ID)
+
+  S protein bound to ACE2 - 6VW1 (PDB ID)
+  
+  ORF3a
+  
+  Homoe-pentameric membrane E protein - 5X29 (PDB ID)
+  
+  ORF8 - No structure
+  
+  
+Human coronavirus spike protein - 5I08 (PDB ID)
+              
+              Closed conformation - 6VXX  (PDB ID)
+              
+              Open conformation - 6VYB  (PDB ID)
+
+              S1 and S2 subunits contains the key amino acids.
+
+
+
+
+
 All the target proteins of the COVID-19 is compared using VAST and DALI servers.
 
 VAST : https://www.ncbi.nlm.nih.gov/Structure/VAST/vast.shtml
