@@ -1,6 +1,6 @@
 Welcome to the repository for the COVID-19 research data.
 
-Correspondng Author: Girinath G. Pillai and few experts
+Corresponding Author: Girinath G. Pillai and few experts
 
 Co-authors: Team of experts, scholars and students
 
